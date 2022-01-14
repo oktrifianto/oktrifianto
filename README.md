@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rahmat Oktrifianto
 - 👀 I’m interested in SEO and Sofware Development.
-- 🌱 I’m currently learning vim and MS Excel :D
+- 🌱 I’m currently learning vim and python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on email??
 
