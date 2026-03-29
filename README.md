@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Rahmat Oktrifianto
 - 👀 I’m interested in SEO and Software Development.
-- 🌱 I’m currently keep learning. 😃
-- 🐊 Still copying code from **StackOverflow**.
+- 🌱 I always keep learning. 😃
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oktrifianto&show_icons=true&theme=radical)
 
